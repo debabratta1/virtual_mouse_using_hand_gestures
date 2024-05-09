@@ -1,0 +1,13 @@
+OpenCV (cv2) - version 4.5.3
+Mediapipe - version 0.8.7
+PyAutoGUI - version 0.9.53
+Math (built-in) - Python 3.9.7
+Enum (built-in) - Python 3.9.7
+ctypes (built-in) - Python 3.9.7
+comtypes - version 1.1.10
+pycaw - version 20181226
+google.protobuf - version 3.19.4
+screen_brightness_control - version 0.4.3
+NumPy - version 1.21.4
+PIL (Python Imaging Library) - version 8.3.2
+tkinter (built-in) - Python 3.9.7
