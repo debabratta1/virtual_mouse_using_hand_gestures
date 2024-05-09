@@ -215,41 +215,56 @@ Vision:
 
  
 i. Pause the cursor (No movement):
+
+
+
  ![pause](https://github.com/debabratta1/virtual_mouse_using_hand_gestures/assets/157493392/ee5233ca-c4b9-4455-b704-138cbbec3d1e)
 
  
 ii. Moving cursor:
+
+
  ![movement](https://github.com/debabratta1/virtual_mouse_using_hand_gestures/assets/157493392/c14fa4c8-fcf8-4a31-8829-e82b8ae66d04)
 
 iii. Left click:
+
+
 ![left-click](https://github.com/debabratta1/virtual_mouse_using_hand_gestures/assets/157493392/cb8c8e44-4cf7-40c0-998c-31b1f8e96701)
 
 iv. Right click:
+
+
 ![right-click](https://github.com/debabratta1/virtual_mouse_using_hand_gestures/assets/157493392/d54eb6a9-ff77-4f9d-b076-c293ec5b22ca)
 
 
 
 v. Select, Drag and drop:
+
+
 ![select   drag](https://github.com/debabratta1/virtual_mouse_using_hand_gestures/assets/157493392/f6a9a293-dbf1-4e0e-8fe4-6a2b533f0b7a)
 
 
 vi. To zoom in move horizontally right size and to zoom out move horizontally left 
 size
 
+
 ![screen scroll](https://github.com/debabratta1/virtual_mouse_using_hand_gestures/assets/157493392/6179ded8-5d9a-47ef-b856-56882d6c1deb)
 
 
 vii. To increase brightness move horizontally right size and to decrease brightness 
 move horizontally left size:
+
  
 ![volume brightness](https://github.com/debabratta1/virtual_mouse_using_hand_gestures/assets/157493392/cf837d62-cdf9-4788-9360-fcdb9ebbdab3)
 
 viii. To scroll down screen move vertically down and to scroll up screen move 
 vertically up:
 
+
 ![screen scroll](https://github.com/debabratta1/virtual_mouse_using_hand_gestures/assets/157493392/4d6b024a-5fee-4a7d-9638-a1168c6611b5)
 
 ix. To increase volume move vertically up and to decrease volume move vertically 
 down:
+
 
 ![volume brightness](https://github.com/debabratta1/virtual_mouse_using_hand_gestures/assets/157493392/722dbe26-4a70-4a98-9e6d-c94bea17f048)
